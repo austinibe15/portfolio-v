@@ -16,7 +16,7 @@ I am passionate about creating efficient and user-friendly solutions that make a
 ### Contact Information:  
 - **Email:** austinibe15@gmail.com  
 - **LinkedIn:** [linkedin.com/in/austin-ibe-9378359b](https://linkedin.com/in/austin-ibe-9378359b)  
-- **GitHub:** (https://github.com/austinibe15) 
+- **GitHub:** https://github.com/austinibe15 
 
 ## Skills  
 
