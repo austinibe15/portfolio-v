@@ -2,71 +2,71 @@ Ibe Ezenwa Augustine - Portfolio
 
 Welcome to my portfolio! I am Ibe Ezenwa Augustine, a dedicated and experienced software developer with a unique background as a seaman. This portfolio showcases my skills, projects, and experience in the tech industry.
 
-Table of Contents
+## Table of Contents  
+- [About Me] 
+- [Skills]
+- [Experience] 
+- [Education] 
+- [Projects]
+- [Contact] 
 
-About Me
-Contact Information
-Skills
-Experience
-Education
-Projects
+## About Me  
+I am passionate about creating efficient and user-friendly solutions that make a difference. My expertise in HTML, CSS, JavaScript, Python, and MySQL has enabled me to contribute to successful projects and deliver high-quality results.  
 
-About Me
-I am passionate about creating efficient and user-friendly solutions that make a difference. My diverse expertise enables me to contribute to successful projects and deliver high-quality results. I am skilled in both front-end and back-end development, allowing me to effectively tackle challenges and create robust applications.
+### Contact Information:  
+- **Email:** austinibe15@gmail.com  
+- **LinkedIn:** [linkedin.com/in/austin-ibe-9378359b]
+- **GitHub:** https://github.com/austinibe15 
 
-Contact Information
-Email: austinibe15@gmail.com
-LinkedIn: linkedin.com/in/austin-ibe-9378359b
-GitHub: github.com/austinibe15
+## Skills  
 
-Skills
+### Technical Skills  
+- Front-End Technologies: HTML, CSS, JavaScript, React
+- Back-End Technologies: Node.js, Python, Java, C, C++ 
+- Database Management: MySQL, NoSQL
+- CI/CD Pipelines: Familiarity with continuous integration and continuous deployment processes
 
-Technical Skills
-Front-End: HTML, CSS, JavaScript, React
-Back-End: Node.js, Python, C, C++
-Database Management: MySQL, NoSQL
-CI/CD: Familiarity with continuous integration and continuous deployment processes
+### Non-Technical Skills  
+- Communication  
+- Problem-Solving  
+- Teamwork  
+- Time Management  
 
-Non-Technical Skills
-Communication
-Problem-Solving
-Teamwork
-Time Management
+## Experience  
 
-Experience
-Yard Operation Clerk | CMA-CGM/Joatelim Logistics Limited
-August 2021 - December 2023
-Streamlined inventory processes using existing management software.
+### Yard Operation Clerk | CMA-CGM/Joatelim Logistics Limited  
+**August 2021 - December 2023**  
+- Streamlined inventory processes using existing management software.  
 
-Sales Manager | Cee Cee Global Network Limited
-May 2008 - March 2020
-Prepared and submitted sales contracts while optimizing overall sales performance.
+### Sales Manager | Cee Cee Global Network Limited  
+**May 2008 - March 2020**  
+- Prepared and submitted sales contracts while optimizing overall sales performance.  
 
-Education
-B.Tech Computer Science
-Ladoke Akintola University of Technology, Oyo-Nigeria
-February 1999 - September 2004
+## Education  
 
-Certificate in Protocols and Networking Standards
+- **B.Tech Computer Science** | Ladoke Akintola University of Technology, Oyo-Nigeria  
+  February 1999 - September 2004  
+
+##  Certificate in Protocols and Networking Standards
 NIIT
 September 2012 - January 2013
 
-Projects
+## Projects
 Here are some of the projects I've worked on:
 
-Expense Tracker
+## Expense Tracker
 Description: A web application that helps users track their expenses using HTML, CSS, PHP, and a MySQL database for storage.
 Screenshot: Expense Tracker Screenshot
 
-Math Operation
+## Math Operation
 Description: A project implementing JavaScript functions for basic math operations and data visualization using Chart.js.
 Screenshot: Math Operation Screenshot
 
-Building A One Page Website
+## Building A One Page Website
 Description: A creative one-page website challenge showcasing design skills and responsiveness.
 Screenshot: One Page Website Screenshot
 
-Container Stacking Optimization
+## Container Stacking Optimization
 Overview: This script is designed to optimize the stacking of containers in a warehouse scenario where containers from different allotees need to be efficiently organized. The goal is to minimize reshuffling time during the offloading process, thereby increasing the efficiency of container handling operations.
 Screenshot: Container Stacking Optimization Screenshot
 
