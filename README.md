@@ -1,4 +1,5 @@
 Ibe Ezenwa Augustine - Portfolio
+
 Welcome to my portfolio! I am Ibe Ezenwa Augustine, a dedicated and experienced software developer with a unique background as a seaman. This portfolio showcases my skills, projects, and experience in the tech industry.
 
 Table of Contents
@@ -55,12 +56,15 @@ Here are some of the projects I've worked on:
 Expense Tracker
 Description: A web application that helps users track their expenses using HTML, CSS, PHP, and a MySQL database for storage.
 Screenshot: Expense Tracker Screenshot
+
 Math Operation
 Description: A project implementing JavaScript functions for basic math operations and data visualization using Chart.js.
 Screenshot: Math Operation Screenshot
+
 Building A One Page Website
 Description: A creative one-page website challenge showcasing design skills and responsiveness.
 Screenshot: One Page Website Screenshot
+
 Container Stacking Optimization
 Overview: This script is designed to optimize the stacking of containers in a warehouse scenario where containers from different allotees need to be efficiently organized. The goal is to minimize reshuffling time during the offloading process, thereby increasing the efficiency of container handling operations.
 Screenshot: Container Stacking Optimization Screenshot
