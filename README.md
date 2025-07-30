@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## WEB HACKATHON 1
 Welcome to the Portfolio Website Hackathon! We are excited to have you join us in creating amazing portfolio websites. Below are the guidelines to ensure a smooth and productive hackathon experience.
 
@@ -29,3 +30,6 @@ Submissions will be judged based on the following criteria:
 Design: Visual appeal, creativity, and user interface design. Functionality: Responsiveness, performance, and interactivity. Content: Clarity, completeness, and presentation of information. Originality: Unique features, innovative approaches, and personal touches. Code Quality: Cleanliness, organization, and use of best practices.
 
 Happy hacking and we look forward to seeing your amazing portfolio websites!
+=======
+# portfolio-v
+>>>>>>> 268de02e3915dae579c5cda38fced665d72551e1
