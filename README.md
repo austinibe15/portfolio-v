@@ -3,7 +3,7 @@
 
 ---
 
-### Home | About | Projects | Contact 
+### Home | About | Projects | Contact | 
 
 ---
 
@@ -33,6 +33,12 @@ I design, implement, and optimize databases using SQL (MySQL, PostgreSQL), NoSQL
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Tools & Platforms:** Git, Docker, AWS, Heroku, VS Code, Visual Studio
 - **Other:** RESTful API, GraphQL, WebSockets, Authentication & Authorization, CI/CD pipelines
+
+---
+
+## For Further Inquiries
+- **Email:** austinibebe15@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/austin-ibe-9378359b/
 
 ---
 
