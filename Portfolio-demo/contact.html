@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me - Ibe Ezenwa Augustine</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <script>
+        // JavaScript function to handle form submission and display the thank you message
+        function handleFormSubmit(event) {
+            event.preventDefault();  // Prevent form from reloading the page
+
+            // Hide the contact form
+            document.getElementById('contactForm').style.display = 'none';
+
+            // Display the thank you message
+            document.getElementById('thankYouMessage').style.display = 'block';
+        }
+    </script>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+    <!-- Header Section -->
+    <header class="bg-blue-800 text-white text-center py-6">
+        <h1 class="text-4xl font-bold">Ibe Ezenwa Augustine</h1>
+        <nav>
+            <ul class="flex justify-end space-x-6 mt-4 ml-auto">
+                <li><a href="index.html" class="bg-blue-600 text-white py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transform hover:scale-105 transition duration-300">Home</a></li>
+                <li><a href="about.html" class="bg-blue-600 text-white py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transform hover:scale-105 transition duration-300">About</a></li>
+                <li><a href="projects.html" class="bg-blue-600 text-white py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transform hover:scale-105 transition duration-300">Projects</a></li>
+                <li><a href="contact.html" class="bg-blue-600 text-white py-2 px-6 rounded-lg shadow-md hover:bg-blue-700 transform hover:scale-105 transition duration-300">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Contact Section -->
+    <section class="max-w-4xl mx-auto my-10 p-6 bg-white rounded shadow-lg">
+        <h2 class="text-3xl font-semibold mb-4">Contact Me</h2>
+        <p class="text-lg mb-6">I understand the importance of meeting deadlines and crafting real-world solutions. We are committed to delivering exceptional software development solutions that meet your needs efficiently and on time, every time.</p>
+        <p class="text-lg mb-6">I look forward to the opportunity to work with you, ensuring that your software development challenges are met with the highest standards of quality and reliability.</p>
+
+        <h3 class="text-2xl font-seibold mb-4">Get In Touch</h3>
+
+        <!-- Contact Form -->
+        <form id="contactForm" class="space-y-4" onsubmit="handleFormSubmit(event)">
+            <!-- Full Name Input -->
+            <input type="text" id="name" name="name" placeholder="Your Full Name" class="w-full p-2 border border-gray-300 rounded" required>
+            
+            <!-- Email Input -->
+            <input type="email" id="email" name="email" placeholder="Your Email" class="w-full p-2 border border-gray-300 rounded" required>
+
+            <!-- Phone Number Input -->
+            <input type="tel" id="phone" name="phone" placeholder="Your Phone Number" class="w-full p-2 border border-gray-300 rounded" required>
+
+            <!-- Subject Input -->
+            <input type="text" id="subject" name="subject" placeholder="Subject" class="w-full p-2 border border-gray-300 rounded" required>
+
+            <!-- Message Input -->
+            <textarea id="message" name="message" placeholder="Your Message" class="w-full p-2 border border-gray-300 rounded" required></textarea>
+
+            <!-- Submit Button -->
+            <button type="submit" class="p-2 bg-blue-800 text-white rounded hover:bg-blue-700">Send</button>
+        </form>
+
+        <!-- Thank You Message -->
+        <div id="thankYouMessage" class="text-xl text-green-500 mt-6" style="display: none;">
+            <p>Thank you for reaching out to us! We will get back to you soon.</p>
+        </div>
+    </section>
+
+    <!-- Company Contact Information -->
+    <section class="max-w-4xl mx-auto my-10 p-6 bg-white rounded shadow-lg">
+        <h3 class="text-2xl font-semibold mb-4">Contact Information</h3>
+        
+        <address class="text-lg mb-4">
+            Address: 1 Ijindah Close, by N.T.A Road, Mgbuoba, Port Harcourt, Nigeria.
+        </address>
+        <p class="text-lg mb-4">Phone: <a href="tel:+2349162460084" class="text-blue-500 hover:underline">+234 916 246 0084</a></p>
+        <p class="text-lg mb-4">Email: <a href="mailto:austinibe15@gmail.com" class="text-blue-500 hover:underline">austinibe15@gmail.com</a></p>
+        <p class="text-lg mb-4">LinkedIn: <a href="https://www.linkedin.com/in/austin-ibe-9378359b" class="text-blue-500 hover:underline">austin-ibe-9378359b</a></p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer class="text-center py-6 bg-blue-800 text-white">
+        <p>&copy; 2025 Austin Ibe. All Rights Reserved.</p>
+    </footer>
+
+</body>
+
+</html>

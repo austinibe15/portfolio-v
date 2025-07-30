@@ -1,0 +1,3 @@
+[build]
+  publish = "."  # Or specify the folder containing your static site (e.g., "dist")
+  command = ""   # No build command needed for static HTML/CSS/JS files
